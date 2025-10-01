@@ -187,7 +187,6 @@ having SUM(income)>1000000;
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
-
 ---
 
 <img width="1051" height="98" alt="Screenshot 2025-10-01 154708" src="https://github.com/user-attachments/assets/6c05dd90-2ac8-48b0-9845-cf7866605002" />
