@@ -198,4 +198,4 @@ AND GRADE <3;
 Thus, the SQL queries to implement DML commands have been executed successfully.
 
 ---
-<img width="1625" height="58" alt="Screenshot 2025-10-01 152652" src="https://github.com/user-attachments/assets/4a361937-8eb1-40bd-b52e-4caec7bd3d80" />
+<img width="1088" height="71" alt="Screenshot 2025-10-01 152946" src="https://github.com/user-attachments/assets/5628eb98-af51-47fe-aa42-7c58318fb7f3" />
