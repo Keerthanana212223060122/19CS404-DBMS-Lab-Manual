@@ -65,11 +65,7 @@ The Central Library wants to manage book lending and cultural events.
 
 ### ER Diagram:
 
-![ER Diagram]
-<img width="695" height="407" alt="dbms111" src="https://github.com/user-attachments/assets/a01b6ee6-1846-4ee4-bb57-e7d09f89e343" />
-
-
-
+<img width="546" height="337" alt="dbms" src="https://github.com/user-attachments/assets/c0777ae2-8e98-4768-b9e7-b3b1f7554711" />
 
 ### Entities and Attributes
 
