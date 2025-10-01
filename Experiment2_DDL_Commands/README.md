@@ -275,7 +275,6 @@ HireDate DATE
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
-
 ---
 
 <img width="1086" height="67" alt="Screenshot 2025-09-29 142544" src="https://github.com/user-attachments/assets/e92b5a52-932d-4734-a02c-f71ffb7111c3" />
