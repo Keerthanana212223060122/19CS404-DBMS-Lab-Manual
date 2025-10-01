@@ -47,6 +47,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 ```
 **Question 1**
 --
+
 -- <img width="1056" height="539" alt="Screenshot 2025-10-01 150742" src="https://github.com/user-attachments/assets/1cd1acfd-e7b6-4586-aed2-c786f4e05d59" />
 
 ```sql
@@ -63,6 +64,7 @@ WHERE
 
 **Question 2**
 ---
+
 <img width="680" height="215" alt="Screenshot 2025-10-01 151349" src="https://github.com/user-attachments/assets/d36192a8-6eba-432a-9897-a2396a957ff8" />
 
 ```sql
@@ -77,6 +79,7 @@ WHERE supplier_id=8;
 
 **Question 3**
 ---
+
 <img width="1139" height="416" alt="Screenshot 2025-10-01 151507" src="https://github.com/user-attachments/assets/76db53eb-93a8-47b2-b28c-620805c3cefa" />
 
 
@@ -198,4 +201,5 @@ AND GRADE <3;
 Thus, the SQL queries to implement DML commands have been executed successfully.
 
 ---
+
 <img width="1088" height="71" alt="Screenshot 2025-10-01 152946" src="https://github.com/user-attachments/assets/5628eb98-af51-47fe-aa42-7c58318fb7f3" />
