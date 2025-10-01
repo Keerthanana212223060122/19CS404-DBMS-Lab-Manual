@@ -105,6 +105,7 @@ CREATE TABLE Table_Name (
 
 **Question 1**
 --
+
 <img width="1318" height="308" alt="Screenshot 2025-09-29 142137" src="https://github.com/user-attachments/assets/98684450-1a31-485f-8bc0-477046880bea" />
 
 ```sql
@@ -124,8 +125,8 @@ FOREIGN KEY (OrderID)references Orders(OrderID)
 
 **Question 2**
 ---
-<img width="951" height="222" alt="Screenshot 2025-09-29 140920" src="https://github.com/user-attachments/assets/7e6f08a5-7f8a-43bb-90de-cc85eac48719" />
 
+<img width="951" height="222" alt="Screenshot 2025-09-29 140920" src="https://github.com/user-attachments/assets/7e6f08a5-7f8a-43bb-90de-cc85eac48719" />
 
 ```sql
 ALTER TABLE employee
@@ -135,10 +136,12 @@ ADD COLUMN last_name varchar(50);
 ```
 
 **Output:**
+
 <img width="1519" height="298" alt="Screenshot 2025-09-29 141000" src="https://github.com/user-attachments/assets/e45adfa6-7204-4867-a8de-49fc25e73385" />
 
 **Question 3**
 ---
+
 <img width="685" height="282" alt="Screenshot 2025-09-29 141027" src="https://github.com/user-attachments/assets/5f15e2e4-690b-4e65-b6e3-42a600d007ed" />
 
 
@@ -149,10 +152,12 @@ FROM Former_employees;
 ```
 
 **Output:**
+
 <img width="1247" height="265" alt="Screenshot 2025-09-29 141056" src="https://github.com/user-attachments/assets/fd5cc51c-cb6e-4020-93ee-f4a1305f88f3" />
 
 **Question 4**
 ---
+
 <img width="942" height="202" alt="Screenshot 2025-09-29 141121" src="https://github.com/user-attachments/assets/d062ccaa-3e2c-461c-91b5-12182cd99409" />
 
 ```sql
@@ -161,10 +166,12 @@ VALUES(201,'David Lee','M','Physics',92);
 ```
 
 **Output:**
+
 <img width="1338" height="225" alt="Screenshot 2025-09-29 141201" src="https://github.com/user-attachments/assets/bf6d668f-4f89-4bee-9a2c-5b27bcdc8971" />
 
 **Question 5**
 ---
+
 <img width="1372" height="344" alt="Screenshot 2025-09-29 141228" src="https://github.com/user-attachments/assets/d85da441-571a-444f-b2e9-a5f6250da274" />
 
 ```sql
@@ -173,10 +180,12 @@ values("978-1234567890","Introduction to AI","John Doe",NULL,NULL),("978-9876543
 ```
 
 **Output:**
+
 <img width="1539" height="259" alt="Screenshot 2025-09-29 141304" src="https://github.com/user-attachments/assets/3480cb5e-7a29-4093-98c4-6da8ee6134ea" />
 
 **Question 6**
 ---
+
 <img width="1191" height="306" alt="Screenshot 2025-09-29 141330" src="https://github.com/user-attachments/assets/307f0a5f-539c-4f54-a0be-84e68af8a7b5" />
 
 
@@ -195,8 +204,8 @@ StockQuantity INTEGER CHECK (StockQuantity>0)
 
 **Question 7**
 ---
-<img width="1250" height="277" alt="Screenshot 2025-09-29 141431" src="https://github.com/user-attachments/assets/67063d71-2c6d-4a3c-a780-4d02a2760d6e" />
 
+<img width="1250" height="277" alt="Screenshot 2025-09-29 141431" src="https://github.com/user-attachments/assets/67063d71-2c6d-4a3c-a780-4d02a2760d6e" />
 
 ```sql
 create table ProjectAssignments(
@@ -210,10 +219,12 @@ foreign key(ProjectID)references Projects(ProjectID)
 ```
 
 **Output:**
+
 <img width="1652" height="248" alt="Screenshot 2025-09-29 141511" src="https://github.com/user-attachments/assets/64e9d17a-a471-4d70-bf53-2aba124bf29f" />
 
 **Question 8**
 ---
+
 <img width="922" height="458" alt="Screenshot 2025-09-29 141627" src="https://github.com/user-attachments/assets/543fa0d1-246b-428f-a83c-c7e8e03bc667" />
 
 ```sql
@@ -225,9 +236,9 @@ ADD COLUMN State TEXT;
 
 <img width="1371" height="312" alt="Screenshot 2025-09-29 141703" src="https://github.com/user-attachments/assets/12ee6046-e329-4d31-b87f-39e90ee9c47a" />
 
-
 **Question 9**
 ---
+
 <img width="1224" height="281" alt="Screenshot 2025-09-29 141727" src="https://github.com/user-attachments/assets/6f225f56-febd-4f4f-b974-da6dc5eb157e" />
 
 ```sql
@@ -246,8 +257,8 @@ foreign key(EmployeeID)references Employees(EmployeeID)
 
 **Question 10**
 ---
-<img width="779" height="338" alt="Screenshot 2025-09-29 141849" src="https://github.com/user-attachments/assets/3655b954-3e6f-4d76-8eb6-51b07f81ae9e" />
 
+<img width="779" height="338" alt="Screenshot 2025-09-29 141849" src="https://github.com/user-attachments/assets/3655b954-3e6f-4d76-8eb6-51b07f81ae9e" />
 
 ```sql
 create table Employees(
@@ -264,6 +275,8 @@ HireDate DATE
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
+
 ---
+
 <img width="1086" height="67" alt="Screenshot 2025-09-29 142544" src="https://github.com/user-attachments/assets/e92b5a52-932d-4734-a02c-f71ffb7111c3" />
 
