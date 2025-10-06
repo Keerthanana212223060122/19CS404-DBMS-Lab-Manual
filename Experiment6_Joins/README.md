@@ -228,3 +228,6 @@ where d.first_name="Emily" and d.last_name="Johnson";
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
 ---
+
+<img width="1140" height="81" alt="image" src="https://github.com/user-attachments/assets/6ea88313-999a-4d54-89bf-170ddcf31f97" />
+
